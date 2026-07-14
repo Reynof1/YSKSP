@@ -1,0 +1,6 @@
+{
+  "name": "YSKSP - Yayasan Sosial Kristen Salib Putih",
+  "description": "Website resmi Yayasan Sosial Kristen Salib Putih. Melayani dengan kasih dan pengabdian sejak 1902 melalui pelayanan sosial, pendidikan, kesehatan, dan kemandirian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
