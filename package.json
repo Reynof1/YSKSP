@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Reynof1.github.io/YSKSP",
+  "homepage": "https://reynof1.github.io/YSKSP/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
